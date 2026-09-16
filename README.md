@@ -7,7 +7,7 @@ Ce projet consiste à analyser les performances logistiques d'une plateforme e-c
 
 L'objectif était de transformer des données brutes en indicateurs métier exploitables à l'aide de **SQLite / SQL**, puis de présenter les résultats sous la forme d'un tableau de bord interactif avec **Power BI**.
 
-![Dashboard Power BI](images/capture.png)
+![Dashboard Power BI](Capture.png)
 
 ---
 
